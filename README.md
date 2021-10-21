@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Roman @expertm1973
+- 👀 I’m interested in programming 
+- 🌱 I'm currently learning C in school 21 in Moscow
